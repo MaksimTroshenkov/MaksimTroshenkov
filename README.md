@@ -26,6 +26,8 @@
   <img align="left" alt="Troshenkov Mail" width="22px" src="./icon/mail.svg" />
 </a>
 
+<br />
+
 ### Моя статистика📝
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=MaksimTroshenkov&hide=contribs&show_icons=true">
